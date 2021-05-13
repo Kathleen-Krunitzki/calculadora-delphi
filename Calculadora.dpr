@@ -4,7 +4,7 @@ program Calculadora;
 
 uses
   Vcl.Forms,
-  teste in '..\teste.pas' {calculator};
+  teste in '.\teste.pas' {calculator};
 
 {$R *.res}
 
